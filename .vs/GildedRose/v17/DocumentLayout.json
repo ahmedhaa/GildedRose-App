@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AhmedHamdaoui\\Downloads\\GildedRose-master (1)\\GildedRose-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4715A2-532E-4C74-BC40-36EE64F61FCA}|src\\GildedRose.Tests\\GildedRose.Tests.csproj|c:\\users\\ahmedhamdaoui\\downloads\\gildedrose-master (1)\\gildedrose-master\\src\\gildedrose.tests\\gildedrosetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4715A2-532E-4C74-BC40-36EE64F61FCA}|src\\GildedRose.Tests\\GildedRose.Tests.csproj|solutionrelative:src\\gildedrose.tests\\gildedrosetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E879A9-7F1C-4C34-AB0D-2662F9815046}|src\\GildedRose.Console\\GildedRose.Console.csproj|C:\\Users\\AhmedHamdaoui\\Downloads\\GildedRose-master (1)\\GildedRose-master\\src\\gildedrose.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E879A9-7F1C-4C34-AB0D-2662F9815046}|src\\GildedRose.Console\\GildedRose.Console.csproj|solutionrelative:src\\gildedrose.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa9a73a5-b2bf-400b-b57c-58f166ff1c56}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GildedRoseTests.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\Downloads\\GildedRose-master (1)\\GildedRose-master\\src\\GildedRose.Tests\\GildedRoseTests.cs",
+              "RelativeDocumentMoniker": "src\\GildedRose.Tests\\GildedRoseTests.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\Downloads\\GildedRose-master (1)\\GildedRose-master\\src\\GildedRose.Tests\\GildedRoseTests.cs",
+              "RelativeToolTip": "src\\GildedRose.Tests\\GildedRoseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:35:33.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AhmedHamdaoui\\Downloads\\GildedRose-master (1)\\GildedRose-master\\src\\GildedRose.Console\\Program.cs",
+              "RelativeDocumentMoniker": "src\\GildedRose.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\AhmedHamdaoui\\Downloads\\GildedRose-master (1)\\GildedRose-master\\src\\GildedRose.Console\\Program.cs",
+              "RelativeToolTip": "src\\GildedRose.Console\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAEwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:35:23.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
