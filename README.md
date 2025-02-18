@@ -1,3 +1,13 @@
+Technologies utilisées
+C# (.NET4.5.1)
+xUnit (pour les tests unitaires)
+
+Fonctionnalités
+* Gestion des articles avec mise à jour automatique de la qualité
+* Implémentation des règles spécifiques pour Aged Brie, Sulfuras, Backstage Passes, et Conjured Items
+* Tests unitaires assurant la robustesse du code
+
+
 # Gilded Rose Refactoring Kata
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a 
