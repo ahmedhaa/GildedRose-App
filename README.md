@@ -1,11 +1,14 @@
-Technologies utilisées
-C# (.NET4.5.1)
-xUnit (pour les tests unitaires)
+*Technologies utilisées
+-C# (.NET4.5.1)
+-xUnit (pour les tests unitaires)
 
 Fonctionnalités
 * Gestion des articles avec mise à jour automatique de la qualité
 * Implémentation des règles spécifiques pour Aged Brie, Sulfuras, Backstage Passes, et Conjured Items
 * Tests unitaires assurant la robustesse du code
+  
+  -Temps consacré
+* Le refactoring et l'implémentation des tests ont pris 4 heures.
 
 
 # Gilded Rose Refactoring Kata
